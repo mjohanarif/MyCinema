@@ -5,7 +5,7 @@ My Flutter Movie app
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/GwdF4SBbIP4/0.jpg)](http://www.youtube.com/watch?v=GwdF4dsSBbIP4)
 
 ### APK download link 
-https://bit.ly/MyCinemaApp
+https://bit.ly/3bou3MS
 
 ### Implementing
 
